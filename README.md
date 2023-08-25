@@ -1,2 +1,1 @@
 # mycollege
-my college website
